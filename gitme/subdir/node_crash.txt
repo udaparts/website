@@ -1,0 +1,14 @@
+last call info = 
+handler sig: 2, si_code: 128, si_errno: 0, si_signo: 2
+last call info = 
+handler sig: 2, si_code: 128, si_errno: 0, si_signo: 2
+last call info = 
+handler sig: 2, si_code: 128, si_errno: 0, si_signo: 2
+last call info = 
+handler sig: 2, si_code: 128, si_errno: 0, si_signo: 2
+last call info = 
+handler sig: 2, si_code: 128, si_errno: 0, si_signo: 2
+last call info = 
+handler sig: 2, si_code: 128, si_errno: 0, si_signo: 2
+last call info = 
+handler sig: 2, si_code: 128, si_errno: 0, si_signo: 2
